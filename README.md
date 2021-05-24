@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Augustine
 - 👀 I’m interested in distributed systems, blockchain techs
-- 🌱 I’m currently learning solidity and ehthereum
+- 🌱 I’m currently learning solidity and ethereum
 - 💞️ I’m looking to collaborate on development smart contracts
 - 📫 How to reach me @augustine0890
 
