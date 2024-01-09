@@ -1,6 +1,6 @@
 👋 Hi, I’m Augustine
-Data Alchemist | Building pipelines, empowering decisions
-I'm passionate about turning data into your strategic advantage. Let's unlock the power of information together!
+</br> Data Alchemist | Building pipelines, empowering decisions
+</br> I'm passionate about turning data into your strategic advantage. Let's unlock the power of information together!
 
 Key strengths:
 - Scalable pipelines: From ingestion to delivery, I design robust systems that handle any data volume.
