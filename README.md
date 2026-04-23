@@ -11,6 +11,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augusti61988772)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#certifications)
 
+---
+
+### 🏆 Champion — FPT AI Hackathon 3 &nbsp;·&nbsp; Enterprise Document Intelligence (RAG)
+
 </div>
 
 ---
@@ -22,6 +26,17 @@ I am a **Data Scientist** working at the intersection of **Financial Risk** and 
 My dual focus means I bring **quantitative rigor** to marketing problems (attribution, segmentation, experimentation) and **product thinking** to financial models (interpretability, fairness, business impact). I believe the best data scientists speak the language of both the risk desk and the growth team.
 
 > *"In God we trust. All others must bring data."*
+
+---
+
+## Highlight
+
+> **Champion Prize — FPT AI Hackathon 3** (2024, South Korea)
+> Team **Cẩm Y Vệ (FKR-KTX)** won 1st place out of all competing teams in the "KT/KB Technical Solutions" track, tackling enterprise-scale document intelligence with generative AI.
+>
+> **Winning solution: AISOL** — a scalable Japanese RAG platform that converts complex business documents (Excel, Word, PPT, PDF) into structured, semantically rich data for enterprise AI retrieval.
+> Key innovation: a **parallelized multimodal pipeline** handling text, tables, and diagrams simultaneously while preserving multi-layered semantic context.
+> Stack: **Qdrant · Gemini · Qwen · RAG · Vector Search**
 
 ---
 
@@ -57,6 +72,7 @@ My dual focus means I bring **quantitative rigor** to marketing problems (attrib
 
 | Domain | Tools & Methods |
 |---|---|
+| **Generative AI & RAG** | LLM Pipelines · RAG · Vector Search · Qdrant · Gemini · Qwen · Prompt Engineering |
 | **ML & Modeling** | Scikit-learn · XGBoost · LightGBM · Statsmodels · Survival Analysis · SHAP |
 | **Financial Analytics** | Credit Scoring · Fraud Rules Engine · Risk Dashboards · Basel compliance metrics |
 | **Marketing Analytics** | Cohort Analysis · CLV Modeling · MMM · Funnel Analytics · Propensity Scoring |
@@ -70,6 +86,16 @@ My dual focus means I bring **quantitative rigor** to marketing problems (attrib
 ---
 
 ## Featured Projects
+
+### AISOL — Enterprise RAG Platform for Document Intelligence ⚡ Champion, FPT AI Hackathon 3
+> *Scalable Japanese-language RAG system for enterprise document understanding*
+
+- Designed a **parallelized multimodal pipeline** that ingests Excel, Word, PPT, and PDF files, extracting text, tables, and diagrams in parallel — eliminating the sequential bottleneck of naive document loaders
+- Preserved **multi-layered semantic context** across document structures, enabling the RAG system to answer complex cross-section queries with high precision
+- Integrated **Qdrant** as the vector store, **Gemini** for multimodal understanding, and **Qwen** for Japanese-language generation — achieving high data integrity on enterprise knowledge bases
+- Delivered the winning solution in the "KT/KB Technical Solutions" track, beating all competing teams in accuracy and system design
+
+---
 
 ### ABACUS — Credit Risk Prediction Engine
 > *ML-powered credit scoring platform serving 10M+ users*
@@ -147,6 +173,14 @@ Explainability        →  SHAP · LIME · Partial Dependence Plots
 
 <div align="center">
 
+**Generative AI & RAG**
+
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
 **Analytics & Modeling**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -202,7 +236,7 @@ Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
 
 <div align="center">
 
-**Open to DS roles in fintech, banking, growth, and product analytics.**
+**Open to DS roles in fintech, banking, growth, product analytics, and enterprise AI / RAG systems.**
 
 [![Get In Touch](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustino0890@gmail.com)
 
