@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Augustine%20Nguyen&amp;fontSize=48&amp;fontColor=e94560&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%C2%B7%20Financial%20Risk%20%26%20Growth%20Analytics&amp;descAlignY=58&amp;descSize=18&amp;descColor=a8b2d8" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=80&lines=Augustine+Nguyen;Data+Scientist+%7C+Financial+Risk+%26+Growth+Analytics;Credit+Scoring+%7C+Fraud+Detection+%7C+GenAI)](https://git.io/typing-svg)
 
 <br/>
 
@@ -271,7 +271,7 @@ Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f3460,50:16213e,100:1a1a2e&amp;height=120&amp;section=footer" width="100%"/>
+![footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 **Open to DS roles in fintech, banking, growth, product analytics, and enterprise AI / RAG systems.**
 
