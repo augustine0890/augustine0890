@@ -1,66 +1,87 @@
 <div align="center">
 
-# Augustine Nguyen · 응웬녹귀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Augustine%20Nguyen&fontSize=48&fontColor=e94560&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Financial%20Risk%20%26%20Growth%20Analytics&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 
-### Data Scientist · Financial Risk & Growth Analytics
-
-*Where credit intelligence meets customer growth — turning data into revenue and trust*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustine2015/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustino0890@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augusti61988772)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#certifications)
 
----
+<br/>
 
-### 🏆 Champion — FPT AI Hackathon 3 &nbsp;·&nbsp; Enterprise Document Intelligence (RAG)
+> *Where credit intelligence meets customer growth — turning data into revenue and trust*
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+
+### 🏆 &nbsp; Champion · FPT AI Hackathon 3 · 2025 &nbsp; 🏆
+**Global Competition** — teams from FPT offices worldwide &nbsp;|&nbsp; Track: Enterprise Document Intelligence
+
+</div>
+
+---
+
+## ◈ About Me
 
 I am a **Data Scientist** working at the intersection of **Financial Risk** and **Growth Analytics**, based in the **Republic of Korea**. I help banks, fintech companies, and growth-stage businesses make better decisions — whether that means flagging fraudulent transactions in milliseconds, scoring creditworthiness at scale, or optimizing a marketing funnel to improve conversion and retention.
 
 My dual focus means I bring **quantitative rigor** to marketing problems (attribution, segmentation, experimentation) and **product thinking** to financial models (interpretability, fairness, business impact). I believe the best data scientists speak the language of both the risk desk and the growth team.
 
-> *"In God we trust. All others must bring data."*
+<br/>
+
+<div align="center">
+
+| Financial Data Science | Marketing & Product DS |
+|:---|:---|
+| Credit Risk Modeling — scorecards, PD/LGD/EAD | Customer Segmentation — RFM, CLV, behavioral clustering |
+| Fraud Detection — real-time anomaly & graph networks | Churn Prediction — survival models, early-warning systems |
+| Investment Analytics — portfolio & quality monitoring | A/B Testing & Experimentation — Bayesian, statistical power |
+| Causal Inference — IV, DiD, policy evaluation | Attribution Modeling — multi-touch, MMM |
+| Generative AI & RAG — LLM pipelines, vector search | Funnel Analytics — drop-off, personalization, pricing |
+
+</div>
 
 ---
 
-## Highlight
+## ◈ Core Competencies
 
-> **Champion Prize — FPT AI Hackathon 3** (2024, South Korea)
-> Team **Cẩm Y Vệ (FKR-KTX)** won 1st place out of all competing teams in the "KT/KB Technical Solutions" track, tackling enterprise-scale document intelligence with generative AI.
->
-> **Winning solution: AISOL** — a scalable Japanese RAG platform that converts complex business documents (Excel, Word, PPT, PDF) into structured, semantically rich data for enterprise AI retrieval.
-> Key innovation: a **parallelized multimodal pipeline** handling text, tables, and diagrams simultaneously while preserving multi-layered semantic context.
-> Stack: **Qdrant · Gemini · Qwen · RAG · Vector Search**
+| Domain | Tools & Methods |
+|:---|:---|
+| **Generative AI & RAG** | LLM Pipelines · RAG · Vector Search · Qdrant · Gemini · Qwen · LangChain · Prompt Engineering |
+| **ML & Modeling** | Scikit-learn · XGBoost · LightGBM · Statsmodels · Survival Analysis · SHAP · LIME |
+| **Financial Analytics** | Credit Scoring · Fraud Rules Engine · Risk Dashboards · Basel Compliance Metrics |
+| **Marketing Analytics** | Cohort Analysis · CLV Modeling · MMM · Funnel Analytics · Propensity Scoring |
+| **Experimentation** | A/B · Multivariate · Bayesian A/B · Causal Inference (IV, DiD, PSM) |
+| **Data & BI** | SQL · Pandas · dbt · Apache Spark · Tableau · Metabase · Chart.js |
+| **Streaming & Pipelines** | Apache Kafka · Airflow · ELK Stack · Kinesis · ETL/ELT |
+| **Databases** | PostgreSQL · Oracle · ClickHouse · MongoDB · Redis · OpenSearch |
+| **Cloud & Infra** | AWS · Azure · Docker · Kubernetes |
+| **Languages** | Python · Rust · SQL · R · Golang · SAS · TypeScript |
 
 ---
 
-## What I Work On
+## ◈ Featured Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-### Financial Data Science
-- **Credit Risk Modeling** — scorecards, PD/LGD/EAD estimation, vintage analysis
-- **Fraud Detection** — real-time anomaly detection, graph-based fraud networks
-- **Investment Analytics** — portfolio analytics, securities quality monitoring
-- **Causal Inference** — instrumental variables, difference-in-differences for policy evaluation
+### ⚡ AISOL — Enterprise RAG Platform &nbsp;·&nbsp; Champion, FPT AI Hackathon 3 (2025)
+> *Global competition across FPT offices worldwide · Track: KT/KB Technical Solutions*
 
-</td>
-<td width="50%" valign="top">
+Designed and delivered a **scalable Japanese-language RAG platform** that converts complex business documents — Excel, Word, PPT, PDF — into structured, semantically rich data for enterprise AI retrieval systems.
 
-### Marketing & Product Data Science
-- **Customer Segmentation** — RFM modeling, behavioral clustering, lifetime value
-- **Churn Prediction** — survival models, early-warning systems, retention triggers
-- **A/B Testing & Experimentation** — hypothesis design, statistical power, Bayesian testing
-- **Attribution Modeling** — multi-touch attribution, media mix modeling (MMM)
-- **Funnel & Conversion Analytics** — drop-off analysis, personalization, pricing optimization
+- Engineered a **parallelized multimodal pipeline** handling text, tables, and diagrams simultaneously, eliminating the sequential bottleneck of conventional document loaders
+- Preserved **multi-layered semantic context** across document structures, enabling precise cross-section query resolution
+- Integrated **Qdrant** (vector store) · **Gemini** (multimodal understanding) · **Qwen** (Japanese-language generation) for high data integrity at enterprise scale
+- Beat all competing teams on accuracy and system architecture across a global field
+
+`Qdrant` `Gemini` `Qwen` `RAG` `Vector Search` `Python` `Multimodal AI`
 
 </td>
 </tr>
@@ -68,108 +89,105 @@ My dual focus means I bring **quantitative rigor** to marketing problems (attrib
 
 ---
 
-## Core Competencies
-
-| Domain | Tools & Methods |
-|---|---|
-| **Generative AI & RAG** | LLM Pipelines · RAG · Vector Search · Qdrant · Gemini · Qwen · Prompt Engineering |
-| **ML & Modeling** | Scikit-learn · XGBoost · LightGBM · Statsmodels · Survival Analysis · SHAP |
-| **Financial Analytics** | Credit Scoring · Fraud Rules Engine · Risk Dashboards · Basel compliance metrics |
-| **Marketing Analytics** | Cohort Analysis · CLV Modeling · MMM · Funnel Analytics · Propensity Scoring |
-| **Experimentation** | A/B / Multivariate Testing · Bayesian A/B · Causal Inference (IV, DiD, PSM) |
-| **Data & BI** | SQL · Pandas · dbt · Apache Spark · Tableau · Metabase · Chart.js |
-| **Streaming & Pipelines** | Apache Kafka · Airflow · ELK Stack · Kinesis · ETL/ELT |
-| **Databases** | PostgreSQL · Oracle · ClickHouse · MongoDB · Redis · OpenSearch |
-| **Cloud & Infra** | AWS · Azure · Docker · Kubernetes |
-| **Languages** | Python · SQL · R · Golang · SAS · TypeScript |
-
----
-
-## Featured Projects
-
-### AISOL — Enterprise RAG Platform for Document Intelligence ⚡ Champion, FPT AI Hackathon 3
-> *Scalable Japanese-language RAG system for enterprise document understanding*
-
-- Designed a **parallelized multimodal pipeline** that ingests Excel, Word, PPT, and PDF files, extracting text, tables, and diagrams in parallel — eliminating the sequential bottleneck of naive document loaders
-- Preserved **multi-layered semantic context** across document structures, enabling the RAG system to answer complex cross-section queries with high precision
-- Integrated **Qdrant** as the vector store, **Gemini** for multimodal understanding, and **Qwen** for Japanese-language generation — achieving high data integrity on enterprise knowledge bases
-- Delivered the winning solution in the "KT/KB Technical Solutions" track, beating all competing teams in accuracy and system design
-
----
-
 ### ABACUS — Credit Risk Prediction Engine
-> *ML-powered credit scoring platform serving 10M+ users*
+> *ML-powered credit scoring platform · 10M+ users · 5B+ records*
 
-- Built machine learning models (XGBoost, logistic regression scorecards) improving credit risk scoring accuracy by **3%** — a significant lift at financial scale
-- Architected HA database clusters on **ClickHouse + MongoDB + Redis** managing **5B+ records** with disaster recovery built in
-- Optimized fault-detection data pipelines via **Apache Spark**, improving throughput for credit decisioning workflows
-- Delivered real-time risk monitoring dashboards enabling credit operations teams to act on early signals
+- Built ML models (XGBoost, logistic regression scorecards) that lifted credit risk scoring accuracy by **+3%** at financial scale — meaningful for millions of credit decisions
+- Architected HA database clusters on **ClickHouse + MongoDB + Redis** with disaster recovery, managing 5B+ records
+- Optimized fault-detection pipelines via **Apache Spark**, increasing throughput for real-time credit decisioning
+- Delivered live risk monitoring dashboards enabling credit ops teams to act on early default signals
+
+`XGBoost` `Apache Spark` `ClickHouse` `MongoDB` `Redis` `Python` `FastAPI`
 
 ---
 
 ### InsightFlow — Customer Behavior & Growth Analytics
-> *Streaming behavioral analytics powering product and marketing decisions*
+> *Streaming analytics platform · e-commerce / fintech · marketing & product intelligence*
 
-- Built real-time event streaming with **Kafka + ELK Stack**, capturing high-volume customer behavioral signals
-- Developed **RFM segmentation** and conversion funnel models, surfacing actionable growth levers for marketing and product teams
-- Architected promotional analytics, delivery, and shipping intelligence models driving operational and revenue improvements
-- Enabled data-driven targeting for campaigns by building propensity-to-purchase scoring pipelines
+- Built real-time event streaming with **Kafka + ELK Stack**, capturing high-volume behavioral signals at scale
+- Developed **RFM segmentation** and conversion funnel models, surfacing actionable growth levers for marketing teams
+- Built propensity-to-purchase scoring pipelines enabling data-driven campaign targeting
+- Architected promotional, delivery, and shipping analytics driving measurable revenue and operational improvements
 
----
-
-### Discord Emotion Tracker — Sentiment & Voice-of-Customer Analytics
-> *AI-powered NLP for real-time customer intelligence*
-
-- Captured and analyzed real-time customer interactions, building a dataset for **sentiment analysis** and emotion classification
-- Applied advanced NLP (**AWS Comprehend**) to identify emotional patterns — directly applicable to customer satisfaction and churn risk signals
-- Implemented real-time language translation (**AWS Translate**) enabling cross-market customer insight aggregation
+`Kafka` `ELK Stack` `FastAPI` `Python` `Oracle` `RFM` `Propensity Modeling`
 
 ---
 
-### BlockStream — Real-Time Financial Transaction Intelligence
-> *On-chain data pipeline for Ethereum & Polygon transaction monitoring*
+### Discord Emotion Tracker — NLP Sentiment & Voice-of-Customer Analytics
+> *Real-time customer intelligence via AI-powered NLP · Rust + Python*
+
+- Captured and analyzed real-time Discord interactions, building a labeled dataset for **sentiment analysis** and emotion classification
+- Applied NLP (**AWS Comprehend** + **HuggingFace Rust-BERT**) to detect emotional patterns across high-volume message streams
+- Implemented real-time language translation (**AWS Translate**, EN→KR) enabling cross-market customer insight aggregation
+- Structured MongoDB storage for messages, translations, and sentiment metrics — queryable for downstream analytics
+
+`Rust` `Serenity` `AWS Comprehend` `AWS Translate` `HuggingFace` `MongoDB` `Python`
+
+---
+
+### BlockStream — Real-Time Blockchain Financial Data
+> *On-chain transaction intelligence · Ethereum & Polygon*
 
 - Designed end-to-end pipelines: on-chain collection → **Kafka** → **PostgreSQL** + **OpenSearch/Algolia** for sub-second indexing
-- Applied transaction pattern analysis and anomaly flagging — methodology transferable to payment fraud detection
-- Ensured data integrity and auditability across high-throughput financial data flows
+- Applied transaction pattern analysis and anomaly flagging — methodology directly transferable to payment fraud detection
+- Ensured data integrity and auditability across high-throughput decentralized financial data flows
+
+`Python` `Golang` `Kafka` `PostgreSQL` `OpenSearch` `Algolia` `Kinesis`
 
 ---
 
 ### QA/QC Dashboard — Investment Securities Analytics
-> *Statistical reporting for financial quality operations*
+> *Statistical quality intelligence for financial operations · Spring Boot + Oracle*
 
-- Migrated Oracle → **EDB (PostgreSQL)**, rewriting and optimizing complex financial SQL for performance
-- Delivered **REST APIs** (Spring Boot) feeding real-time statistical dashboards for investment operations teams
-- Built interactive visualizations (**Chart.js**) for KPI monitoring across securities quality workflows
+- Migrated Oracle → **EDB (PostgreSQL)**, rewriting complex financial SQL queries for performance and ANSI compatibility
+- Delivered **REST APIs** (Spring Boot) feeding real-time statistical dashboards to investment operations teams
+- Built interactive **Chart.js** visualizations for KPI monitoring across securities quality workflows
+
+`Java` `Spring Boot` `Oracle` `PostgreSQL` `Chart.js` `SQL`
 
 ---
 
-## Experimentation & Statistical Toolkit
+## ◈ Side Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[discord-playdapp-bot](https://github.com/augustine0890/discord-playdapp-bot)** &nbsp;·&nbsp; Rust
+
+A high-performance Discord bot built in **Rust** using Serenity for gaming community management. Handles tournament ticket exchange, player engagement tracking, and leaderboard ranking via slash commands.
+
+`Rust` `Serenity` `MongoDB` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**[outfit-square](https://github.com/augustine0890/outfit-square)** &nbsp;·&nbsp; Python
+
+Python-based Discord bot for user point management in metaverse gaming channels. Integrates MongoDB for persistent storage with multi-stage (dev/prod) deployment and OAuth2 authentication.
+
+`Python` `Discord.py` `MongoDB` `Poetry`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Statistical & Experimentation Toolkit
 
 ```
 Hypothesis Testing    →  t-test · Mann-Whitney · Chi-square · ANOVA
 Causal Methods        →  Diff-in-Diff · Propensity Score Matching · Instrumental Variables
 Bayesian Methods      →  Bayesian A/B · Thompson Sampling · Beta-Binomial models
-Survival Analysis     →  Kaplan-Meier · Cox PH · Accelerated Failure Time (churn, default timing)
-Segmentation          →  K-Means · DBSCAN · Hierarchical clustering · RFM
+Survival Analysis     →  Kaplan-Meier · Cox PH · Accelerated Failure Time  (churn · default timing)
+Segmentation          →  K-Means · DBSCAN · Hierarchical Clustering · RFM
 Explainability        →  SHAP · LIME · Partial Dependence Plots
 ```
 
 ---
 
-## Certifications
-
-| | Certification |
-|---|---|
-| ☁️ | **AWS Certified Data Engineer – Associate** |
-| 🤖 | **AWS Certified AI Practitioner – Foundational** |
-| ☁️ | **Microsoft Certified: Azure AI Fundamentals** |
-| 📊 | **Nanodegree: Data Engineering with Microsoft Azure** |
-| 🔁 | **Astronomer Certification: Apache Airflow Fundamentals** |
-
----
-
-## Tech Stack
+## ◈ Tech Stack
 
 <div align="center">
 
@@ -186,6 +204,7 @@ Explainability        →  SHAP · LIME · Partial Dependence Plots
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=flat-square&logoColor=white)
@@ -223,11 +242,27 @@ Explainability        →  SHAP · LIME · Partial Dependence Plots
 
 ---
 
-## Education
+## ◈ Certifications
+
+<div align="center">
+
+| | Certification |
+|:---:|:---|
+| ☁️ | **AWS Certified Data Engineer – Associate** |
+| 🤖 | **AWS Certified AI Practitioner – Foundational** |
+| ☁️ | **Microsoft Certified: Azure AI Fundamentals** |
+| 📊 | **Nanodegree: Data Engineering with Microsoft Azure** |
+| 🔁 | **Astronomer Certification: Apache Airflow Fundamentals** |
+
+</div>
+
+---
+
+## ◈ Education
 
 **Master of Public Health — Health Data Science**
 National Cancer Center, Goyang, Republic of Korea · 2016–2018
-*Thesis: Causal Effect of BMI on Thyroid Cancer Risk using Mendelian Randomization*
+*Thesis: Causal Effect of BMI on Thyroid Cancer Risk using Mendelian Randomization (Instrumental Variable Analysis)*
 
 **Bachelor of Engineering — Biotechnology**
 Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
@@ -235,6 +270,8 @@ Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 **Open to DS roles in fintech, banking, growth, product analytics, and enterprise AI / RAG systems.**
 
