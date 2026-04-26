@@ -90,15 +90,17 @@ Designed and delivered a **scalable Japanese-language RAG platform** that conver
 
 ---
 
-### ABACUS — Credit Risk Prediction Engine
-> *ML-powered credit scoring platform · 10M+ users · 5B+ records*
+### ABACUS — Advanced Credit Risk Prediction Analysis Tool
+> *ML platform for fault detection & credit risk modeling · 10M+ users · 5B+ records*
 
-- Built ML models (XGBoost, logistic regression scorecards) that lifted credit risk scoring accuracy by **+3%** at financial scale — meaningful for millions of credit decisions
-- Architected HA database clusters on **ClickHouse + MongoDB + Redis** with disaster recovery, managing 5B+ records
-- Optimized fault-detection pipelines via **Apache Spark**, increasing throughput for real-time credit decisioning
-- Delivered live risk monitoring dashboards enabling credit ops teams to act on early default signals
+A machine-learning platform that augments **fault detection** and refines **credit risk modeling**, sharpening the precision of financial assessments and operational reliability for an installed base of **10M+ users**.
 
-`XGBoost` `Apache Spark` `ClickHouse` `MongoDB` `Redis` `Python` `FastAPI`
+- Developed advanced credit risk models using **machine learning algorithms**, achieving a **+3% lift in scoring accuracy** and improving the precision of downstream financial assessments
+- Optimized fault-detection pipelines by streamlining processing on **Apache Spark**, materially increasing throughput for workflows serving 10M+ users
+- Architected **highly-available, resilient database clusters** across **ClickHouse + MongoDB + Redis** to manage 5B+ records, with disaster-recovery provisions safeguarding data integrity and operational continuity
+- Built real-time monitoring dashboards and interactive reports surfacing live platform signals — strengthening operational transparency and supporting informed decision-making
+
+`Python` `Django` `FastAPI` `Apache Spark` `ClickHouse` `MongoDB` `Oracle` `Redis`
 
 ---
 
