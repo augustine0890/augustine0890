@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=githubpages&logoColor=white)](https://augustine0890.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustine2015/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustino0890@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augusti61988772)
-[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#credentials)
+<a href="https://augustine0890.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/augustine2015/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:augustino0890@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://twitter.com/augusti61988772" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="#credentials"><img src="https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified"></a>
 
 <br/>
 
@@ -284,9 +284,9 @@ Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
 
 **Open to DS roles in fintech, banking, growth, product analytics, and enterprise AI / RAG systems.**
 
-🌐 Explore the full portfolio → **[augustine0890.github.io](https://augustine0890.github.io)**
+🌐 Explore the full portfolio → <a href="https://augustine0890.github.io" target="_blank" rel="noopener noreferrer"><strong>augustine0890.github.io</strong></a>
 
-[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustino0890@gmail.com)
+<a href="mailto:augustino0890@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"></a>
 
 </div>
 
