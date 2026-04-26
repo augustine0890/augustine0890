@@ -137,14 +137,14 @@ Designed and delivered a **scalable Japanese-language RAG platform** that conver
 
 ---
 
-### QA/QC Dashboard — Investment Securities Analytics
-> *Statistical quality intelligence for financial operations · Spring Boot + Oracle*
+### QA/QC Data Analytics & Visualization Dashboard
+> *Real-time statistical quality intelligence · Spring Boot + Java + Oracle*
 
-- Migrated Oracle → **EDB (PostgreSQL)**, rewriting complex financial SQL queries for performance and ANSI compatibility
-- Delivered **REST APIs** (Spring Boot) feeding real-time statistical dashboards to investment operations teams
-- Built interactive **Chart.js** visualizations for KPI monitoring across securities quality workflows
+- Designed and implemented **data pipelines** to aggregate, preprocess, and analyze large QA/QC datasets using **SQL** and **Java (Apache Commons Math)**, delivering statistical insights for quality enhancement
+- Applied advanced **statistical methods** to identify trends and anomalies, surfacing actionable quality signals for stakeholder decision-making
+- Built interactive **Chart.js** visualizations (pie, bar, line) and developed optimized **REST APIs** (Spring Boot) to deliver real-time statistical reports and dashboards, streamlining data-driven quality process improvements
 
-`Java` `Spring Boot` `Oracle` `PostgreSQL` `Chart.js` `SQL`
+`Java` `Spring Boot` `Oracle` `Apache Commons Math` `Chart.js` `REST APIs` `SQL`
 
 ---
 
