@@ -126,14 +126,14 @@ Designed and delivered a **scalable Japanese-language RAG platform** that conver
 
 ---
 
-### BlockStream — Real-Time Blockchain Financial Data
-> *On-chain transaction intelligence · Ethereum & Polygon*
+### BlockStream — Real-Time Blockchain Data System
+> *Scalable on-chain monitoring · Ethereum & Polygon · pub-sub architecture*
 
-- Designed end-to-end pipelines: on-chain collection → **Kafka** → **PostgreSQL** + **OpenSearch/Algolia** for sub-second indexing
-- Applied transaction pattern analysis and anomaly flagging — methodology directly transferable to payment fraud detection
-- Ensured data integrity and auditability across high-throughput decentralized financial data flows
+- Architected real-time collection of blockchain transaction data from **Ethereum** and **Polygon** networks, ensuring comprehensive coverage and accuracy
+- Engineered end-to-end data pipelines: on-chain collection → **Kafka** (publish) → **PostgreSQL** (storage) → **OpenSearch / Algolia** (indexing) for sub-second search
+- Managed the full workflow including enriched metadata (images, links) for advanced search, ensuring scalability and data integrity across all components
 
-`Python` `Golang` `Kafka` `PostgreSQL` `OpenSearch` `Algolia` `Kinesis`
+`Python` `Golang` `Kafka` `PostgreSQL` `OpenSearch` `Algolia` `Oracle` `Kinesis`
 
 ---
 
@@ -145,6 +145,16 @@ Designed and delivered a **scalable Japanese-language RAG platform** that conver
 - Built interactive **Chart.js** visualizations (pie, bar, line) and developed optimized **REST APIs** (Spring Boot) to deliver real-time statistical reports and dashboards, streamlining data-driven quality process improvements
 
 `Java` `Spring Boot` `Oracle` `Apache Commons Math` `Chart.js` `REST APIs` `SQL`
+
+---
+
+### Investment Securities Project (Meta) — Database Migration & SQL Optimization
+> *Oracle → EDB (PostgreSQL) migration · ANSI-standard SQL refactoring*
+
+- Converted and optimized **Oracle SQL queries** to **ANSI-standard** for **EDB (PostgreSQL)** compatibility, improving query efficiency and portability
+- Translated complex business requirements into high-performance SQL queries, ensuring alignment with project goals across investment securities workflows
+
+`Oracle` `EDB (PostgreSQL)` `ANSI SQL`
 
 ---
 
