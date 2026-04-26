@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=80&lines=Augustine+Nguyen;Data+Scientist+%7C+Financial+Risk+%26+Growth+Analytics;Credit+Scoring+%7C+Fraud+Detection+%7C+GenAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=80&lines=Augustine+Nguyen;Data+Scientist+%7C+Financial+Risk+%26+Growth+Analytics;Credit+Scoring+%7C+Fraud+Detection+%7C+GenAI;Computer+Vision+%26+Object+Tracking)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 I am a **Data Scientist** working at the intersection of **Financial Risk** and **Growth Analytics**, based in the **Republic of Korea**. I help banks, fintech companies, and growth-stage businesses make better decisions — whether that means flagging fraudulent transactions in milliseconds, scoring creditworthiness at scale, or optimizing a marketing funnel to improve conversion and retention.
 
-My dual focus means I bring **quantitative rigor** to marketing problems (attribution, segmentation, experimentation) and **product thinking** to financial models (interpretability, fairness, business impact). I believe the best data scientists speak the language of both the risk desk and the growth team.
+My dual focus means I bring **quantitative rigor** to marketing problems (attribution, segmentation, experimentation) and **product thinking** to financial models (interpretability, fairness, business impact). I believe the best data scientists speak the language of both the risk desk and the growth team — and increasingly, of **computer vision and perception systems** where modeling meets the physical world.
 
 <br/>
 
@@ -53,6 +53,7 @@ My dual focus means I bring **quantitative rigor** to marketing problems (attrib
 | Domain | Tools & Methods |
 |:---|:---|
 | **Generative AI & RAG** | LLM Pipelines · RAG · Vector Search · Qdrant · Gemini · Qwen · LangChain · Prompt Engineering |
+| **Computer Vision** | Object Detection (YOLO · SSD) · Multi-Object Tracking (DeepSORT · ByteTrack · StrongSORT) · Re-Identification · TensorRT · OpenCV · Edge Inference (Jetson) |
 | **ML & Modeling** | Scikit-learn · XGBoost · LightGBM · Statsmodels · Survival Analysis · SHAP · LIME |
 | **Financial Analytics** | Credit Scoring · Fraud Rules Engine · Risk Dashboards · Basel Compliance Metrics |
 | **Marketing Analytics** | Cohort Analysis · CLV Modeling · MMM · Funnel Analytics · Propensity Scoring |
@@ -183,6 +184,7 @@ Bayesian Methods      →  Bayesian A/B · Thompson Sampling · Beta-Binomial mo
 Survival Analysis     →  Kaplan-Meier · Cox PH · Accelerated Failure Time  (churn · default timing)
 Segmentation          →  K-Means · DBSCAN · Hierarchical Clustering · RFM
 Explainability        →  SHAP · LIME · Partial Dependence Plots
+Vision & Tracking     →  YOLOv8 · DeepSORT · ByteTrack · Kalman Filter · IoU/Hungarian assignment
 ```
 
 ---
@@ -208,6 +210,15 @@ Explainability        →  SHAP · LIME · Partial Dependence Plots
 ![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=flat-square&logoColor=white)
+
+**Computer Vision & Edge AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 **Marketing & BI**
 
