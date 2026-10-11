@@ -16,7 +16,7 @@
 
 > *Market and financial data that is correct, explainable, and recoverable.*
 
-| **5B+** | **10M+** | **< 1s** | **🏆 1st** | **7+ yrs** |
+| **5B+** | **10M+** | **< 1s** | **🏆 1st** | **5+ yrs** |
 |:---:|:---:|:---:|:---:|:---:|
 | records on HA clusters | platform users served | search over streaming transaction data | FPT AI Hackathon 3 · 2025 (global) | industry data engineering |
 
@@ -26,7 +26,7 @@
 
 ## ◈ About Me
 
-I'm a data engineer with **7+ years in industry**, focused on **market and financial data platforms** and based in the **Republic of Korea**. I design ingestion, storage, and delivery so that traders, risk teams, analysts, and downstream systems receive data that is **correct as of a point in time, explainable, and recoverable**.
+I'm a data engineer with **5+ years of industry data engineering**, focused on **market and financial data platforms** and based in the **Republic of Korea**. I design ingestion, storage, and delivery so that traders, risk teams, analysts, and downstream systems receive data that is **correct as of a point in time, explainable, and recoverable**.
 
 My work includes **highly available ClickHouse / MongoDB / Redis clusters** holding **5B+ records**, **Spark** pipelines for a platform with **10M+ users**, **Kafka**-based streams of on-chain financial transactions, and an **Oracle → PostgreSQL** migration for an investment securities system.
 
@@ -41,7 +41,7 @@ I'm growing toward **Staff-level scope**: owning platform architecture across te
 | **Market Data Engineering** | Real-time event ingestion · publish–subscribe fan-out · columnar storage for high-volume, time-ordered data · sub-second search | [BlockStream](#blockstream) · ClickHouse clusters |
 | **Financial Data Engineering** | Highly available storage with disaster recovery · SQL migration that preserves business semantics · traceable, reconcilable records | [ABACUS](#abacus) · [Investment Securities](#investment-securities) |
 | **Toward Staff DE** | Platform architecture ownership · standards and paved roads · safe change management · operational excellence | [Staff-Level Scope](#staff-scope) |
-| *Adjacent: AI on financial data* | Document → structured data pipelines · vector indexing · LLM enrichment | [AISOL 🏆](#aisol) |
+| **Supporting: AI Data Engineering** | Enterprise document → structured data pipelines · vector indexing · LLM enrichment | [AISOL 🏆](#aisol) |
 
 ---
 
