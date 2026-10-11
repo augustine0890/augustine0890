@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Augustine Nguyen — Senior Data Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=80&lines=Augustine+Nguyen;Senior+Data+Engineer;Market+Data%2C+AI+%26+Quantitative+Finance;Reliable+Pipelines+%7C+Data+for+Research)](https://git.io/typing-svg)
+[![Augustine Nguyen — Senior Data Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=800&height=80&lines=Augustine+Nguyen;Senior+Data+Engineer;Market+%26+Financial+Data+Platforms;Pipeline+Architecture+%7C+Reliability+%7C+AI)](https://git.io/typing-svg)
 
-### Senior Data Engineer | Market Data, AI & Quantitative Finance
+### Senior Data Engineer | Market & Financial Data Platforms
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-> *Reliable data foundations for analysis, AI, and financial decisions.*
+> *Reliable data platforms for financial operations, analysis, and AI.*
 
 </div>
 
@@ -31,35 +31,41 @@
 
 ## ◈ About Me
 
-I bring a **data science perspective to data engineering**, based in the **Republic of Korea**. My focus is the data behind reliable analysis and models: how it is collected, transformed, checked, and delivered to the people who use it.
+I focus on **data infrastructure for financial applications**, bringing a data science perspective to engineering. Based in the **Republic of Korea**, I connect ingestion, transformation, storage, and delivery to the needs of the people who depend on the data.
 
-My experience spans **credit risk platforms, streaming analytics, blockchain transaction pipelines, investment securities SQL migration, and enterprise AI retrieval**. That work includes Spark processing, database clusters managing **5B+ records**, and a document intelligence platform that won **FPT AI Hackathon 3 in 2025**.
+My experience spans **credit risk platforms, investment securities SQL migration, blockchain transaction pipelines, streaming analytics, and enterprise AI retrieval**. It includes designing highly available database clusters managing **5B+ records**, optimizing **Spark** processing for a platform serving **10M+ users**, and building a document intelligence pipeline that won **FPT AI Hackathon 3 in 2025**.
 
-Working with customer, product, and financial data has taught me to start with the downstream question. I use that perspective to connect pipeline architecture, storage, and delivery to the needs of analysts, researchers, and model developers. I am particularly interested in building data foundations for **market data, AI, quantitative research, and financial applications**.
+I am particularly interested in **market and financial data platforms** where correctness, availability, and explainable data flows matter. Working with customer, product, and financial data has taught me to start with the downstream requirement and carry it through to architecture and operations.
+
+The scope I want to grow into is **Staff-level data engineering**: shaping platform architecture, establishing reusable engineering standards, and aligning data producers and consumers around clear requirements. I value decisions that make a platform easier for teams to operate and extend over time.
 
 ---
 
 ## ◈ What I Focus On
 
-### Reliable Data Pipelines
+### Market & Financial Data Integrity
 
-Making data available in a consistent, usable form through ingestion, transformation, and delivery. I care about clear definitions, maintainable workflows, and failures that can be diagnosed. My project work spans event streaming, distributed processing, database resilience, and monitoring.
+My financial data experience includes credit risk systems, investment securities workflows, and on-chain transactions. For market data, my priorities include **consistent instrument identifiers, event and ingestion timestamps, trading calendars, missing observations, and price adjustments**. I care about preserving the meaning of a financial record as it moves between systems and making corrections understandable to downstream users.
 
-### Market and Financial Data
+### Reliable Pipelines & Recovery
 
-My financial data experience includes credit risk systems, on-chain transactions, and investment securities workflows. My interest in market data extends to preparing prices, volumes, reference data, and financial records for analysis, with attention to timestamps, instrument identifiers, missing observations, and adjustments that affect interpretation.
+My project work spans **Kafka event streaming, Spark processing, resilient database clusters, disaster recovery, and operational monitoring**. My design priorities include explicit handling of late or duplicate records, safe retries and backfills, and recovery procedures teams can follow. A useful pipeline delivers data consistently and makes failures diagnosable.
 
-### Data for AI and Quantitative Research
+### Platform Architecture & Technical Direction
 
-Turning complex source material into usable inputs for retrieval, modeling, and historical analysis. I focus on preserving context in AI pipelines and value traceable transformations and reproducible dataset versions, so researchers can understand where a result came from and recreate its inputs.
+I approach architecture through **access patterns, latency, throughput, storage cost, and operational complexity**. My experience with database clusters, streaming pipelines, and SQL migration informs those tradeoffs. As I move toward broader platform responsibility, I want to help teams document decisions, reuse ingestion and transformation patterns, and evolve interfaces without breaking downstream workflows.
 
-### Understanding the End Use
+### Data Quality, Ownership & Traceability
 
-My modeling and analytics background helps me connect data requirements to practical questions: customer retention, profitability, forecasting, and model performance. That understanding guides what to collect, how to structure it, and how to deliver it to the people making decisions.
+I value **clear dataset definitions, accountable ownership, source reconciliation, and traceable transformations**. The standards I want to help establish cover freshness and completeness expectations, schema changes, and the checks needed before data reaches consumers. These practices help teams investigate discrepancies and understand the inputs behind a financial result.
+
+### Data Delivery for Finance & AI
+
+My work connects processing and storage to **SQL workflows, APIs, search indexes, operational dashboards, and AI retrieval**. I start with what consumers need to query or decide, then work backward to the required structure and delivery path. For AI inputs, that includes preserving source context; for financial analysis, it includes reproducible historical inputs.
 
 ---
 
-## ◈ Core Competencies
+## ◈ Core Engineering Experience
 
 | Domain | Tools & Methods |
 |:---|:---|
@@ -67,11 +73,10 @@ My modeling and analytics background helps me connect data requirements to pract
 | **SQL & Data Transformation** | SQL Optimization · Oracle → EDB (PostgreSQL) Migration · ANSI SQL · dbt · Pandas |
 | **Storage & Reliability** | PostgreSQL · Oracle · ClickHouse · MongoDB · Redis · Highly Available Clusters · Disaster Recovery |
 | **AI Data Engineering** | Multimodal Document Processing · RAG · Vector Search · Qdrant · Gemini · Qwen · LangChain |
-| **Financial Data & Analytics** | Credit Risk Modeling · Fraud & Fault Detection · Investment Securities Workflows · Blockchain Transaction Data |
+| **Financial Data Systems** | Credit Risk Platforms · Fault-Detection Pipelines · Investment Securities Workflows · Blockchain Transaction Data |
 | **Data Delivery & Observability** | FastAPI · Django · Spring Boot · REST APIs · OpenSearch · Operational Dashboards |
-| **Quantitative & Research Methods** | Statistical Testing · Causal Inference · Survival Analysis · Bayesian Methods · SHAP · LIME |
 | **Cloud & Infrastructure** | AWS · Azure · Docker · Kubernetes |
-| **Languages** | Python · SQL · Rust · Golang · R · Java · SAS · TypeScript |
+| **Languages** | Python · SQL · Rust · Golang · Java · TypeScript |
 
 ---
 
@@ -81,12 +86,41 @@ My modeling and analytics background helps me connect data requirements to pract
 
 > *Financial data infrastructure · Fault detection & credit risk modeling · 10M+ users · 5B+ records*
 
+Work spanning **storage architecture, distributed processing, and operational visibility** for a large financial risk platform.
+
 - Architected **highly available ClickHouse, MongoDB, and Redis clusters** managing **5B+ records**, with disaster recovery provisions to support data integrity and operational continuity
 - Optimized **Apache Spark** processing for fault-detection pipelines serving a platform with **10M+ users**
 - Built **real-time monitoring dashboards and interactive reports** to make platform signals available for operational decisions
 - Developed credit risk models achieving a **+3% lift in scoring accuracy**, connecting data processing to downstream model performance
 
 `Python` `Django` `FastAPI` `Apache Spark` `ClickHouse` `MongoDB` `Oracle` `Redis`
+
+---
+
+### Investment Securities Project (Meta) — Database Migration & SQL Optimization
+
+> *Financial data workflows · Oracle → EDB (PostgreSQL) · ANSI SQL*
+
+Work at the boundary of **financial business requirements and database portability**, keeping SQL aligned with investment securities workflows.
+
+- Converted and optimized **Oracle SQL queries** to **ANSI SQL** for **EDB (PostgreSQL)** compatibility, improving query efficiency and portability
+- Translated investment securities business requirements into SQL queries aligned with financial workflows
+
+`Oracle` `EDB (PostgreSQL)` `ANSI SQL` `SQL Optimization`
+
+---
+
+### BlockStream — Real-Time Blockchain Data System
+
+> *On-chain transaction ingestion · Ethereum & Polygon · Publish–subscribe architecture*
+
+An ingestion-to-search architecture connecting **transaction collection, event distribution, persistent storage, and indexing**.
+
+- Architected real-time collection of **Ethereum and Polygon transaction data**
+- Engineered the pipeline from **on-chain collection → Kafka → PostgreSQL → OpenSearch / Algolia**, supporting sub-second search
+- Managed metadata enrichment, storage, and indexing across the workflow to support data integrity and scalable retrieval
+
+`Python` `Golang` `Kafka` `PostgreSQL` `OpenSearch` `Algolia` `Oracle` `Kinesis`
 
 ---
 
@@ -100,29 +134,6 @@ My modeling and analytics background helps me connect data requirements to pract
 - Integrated **Qdrant** for vector storage, **Gemini** for multimodal understanding, and **Qwen** for Japanese-language generation
 
 `Python` `Qdrant` `Gemini` `Qwen` `RAG` `Vector Search` `Multimodal AI`
-
----
-
-### BlockStream — Real-Time Blockchain Data System
-
-> *On-chain transaction ingestion · Ethereum & Polygon · Publish–subscribe architecture*
-
-- Architected real-time collection of **Ethereum and Polygon transaction data**
-- Engineered the pipeline from **on-chain collection → Kafka → PostgreSQL → OpenSearch / Algolia**, supporting sub-second search
-- Managed metadata enrichment, storage, and indexing across the workflow to support data integrity and scalable retrieval
-
-`Python` `Golang` `Kafka` `PostgreSQL` `OpenSearch` `Algolia` `Oracle` `Kinesis`
-
----
-
-### Investment Securities Project (Meta) — Database Migration & SQL Optimization
-
-> *Financial data workflows · Oracle → EDB (PostgreSQL) · ANSI SQL*
-
-- Converted and optimized **Oracle SQL queries** to **ANSI SQL** for **EDB (PostgreSQL)** compatibility, improving query efficiency and portability
-- Translated investment securities business requirements into SQL queries aligned with financial workflows
-
-`Oracle` `EDB (PostgreSQL)` `ANSI SQL` `SQL Optimization`
 
 ---
 
@@ -191,18 +202,7 @@ Python-based Discord bot for user point management in metaverse gaming channels.
 
 ## ◈ Quantitative & Modeling Background
 
-My data science background helps me understand the assumptions and inputs behind an analysis, and what a pipeline needs to preserve for its results to remain useful.
-
-```
-Hypothesis Testing    →  t-test · Mann-Whitney · Chi-square · ANOVA
-Causal Methods        →  Diff-in-Diff · Propensity Score Matching · Instrumental Variables
-Bayesian Methods      →  Bayesian A/B · Thompson Sampling · Beta-Binomial models
-Survival Analysis     →  Kaplan-Meier · Cox PH · Accelerated Failure Time  (churn · default timing)
-Segmentation          →  K-Means · DBSCAN · Hierarchical Clustering · RFM
-Explainability        →  SHAP · LIME · Partial Dependence Plots
-```
-
-Additional modeling experience includes **computer vision and object tracking**: YOLO, DeepSORT, ByteTrack, StrongSORT, re-identification, OpenCV, TensorRT, and Jetson edge inference.
+My background in **credit risk modeling, statistical analysis, and causal inference** helps me understand downstream data requirements, including historical consistency and reproducible inputs. I use that perspective to support analysts and model developers when designing financial data pipelines.
 
 ---
 
@@ -234,22 +234,10 @@ Additional modeling experience includes **computer vision and object tracking**:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Analytics & Modeling** &nbsp;·&nbsp;
+**Languages** &nbsp;·&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=flat-square&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0066CC?style=flat-square&logoColor=white)
-
-**Computer Vision & Edge AI** &nbsp;·&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 </div>
 
@@ -286,9 +274,9 @@ Industrial University of Ho Chi Minh City, Vietnam · 2008–2013
 
 ## ◈ Why I Care
 
-I enjoy making data easier to trust and use. A researcher can reproduce an analysis. A team can investigate an unexpected result. Someone making a financial or business decision can understand the inputs behind it.
+I enjoy making data easier to trust and use. An operations team can investigate a discrepancy. An analyst can reproduce a financial report. An engineer can understand a pipeline's dependencies and recover it after a failure.
 
-Those are the outcomes that draw me to data engineering: useful work built on data people can inspect, explain, and depend on.
+That is what draws me to broader platform work: building systems that teams can inspect, explain, operate, and depend on as their data needs grow.
 
 ---
 
@@ -296,7 +284,7 @@ Those are the outcomes that draw me to data engineering: useful work built on da
 
 ![footer](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-**Open to Senior Data Engineer roles in AI data platforms, market data, quantitative research, and financial data engineering.**
+**Open to Senior Data Engineer roles in market data, financial services, and financial data platforms, with a path toward Staff-level platform responsibility.**
 
 🌐 Explore the full portfolio → <a href="https://augustine0890.github.io" target="_blank" rel="noopener noreferrer"><strong>augustine0890.github.io</strong></a>
 
